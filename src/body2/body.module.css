@@ -1,0 +1,146 @@
+.vector{
+    width: 1276px;
+height: 465px;
+top: 102px;
+left: -36px;
+gap: 0px;
+opacity: 0px;
+}
+
+.footprint1{
+    background-color:#FFBF34;
+    width: 90px;
+    top: 72%;
+    left: 25%;
+    position: absolute;
+}
+
+.bone{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 73.45px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+}
+
+.paw{
+    width: 73.94px;
+height: 73.42px;
+top: 36%;
+left: 38%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.bone2{
+    position: absolute;
+    bottom: 0.2%;
+    left: 5%;
+    width: 120px;
+height: 75px;
+gap: 0px;
+opacity: 0px;
+}
+
+.paw2{
+    width: 73.94px;
+height: 73.42px;
+bottom: 2%;
+left: 38%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.voiletPrint{
+    position: absolute;
+    width: 62.61px;
+height: 60.28px;
+top: 19%;
+left: 20%;
+gap: 0px;
+opacity: 0px;
+}
+
+.ring{
+    width: 69.17px;
+height: 37.72px;
+top: 18%;
+left: 39%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.quoteParent{
+width: 1217px;
+height: 128px;
+top: 32%;
+left: 5%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.quote{
+font-family: Playfair Display;
+font-size: 96px;
+font-weight: 700;
+line-height: 127.97px;
+letter-spacing: 0.05em;
+text-align: left;
+}
+
+.cat{
+position: absolute;
+width: 240px;
+height: 280px;
+top: 23%;
+left: 50%;
+gap: 0px;
+opacity: 0px;
+}
+
+.blueBgDog{
+margin-top: -40px;
+position: absolute;
+width: 220px;
+height: 350px;
+top: 29%;
+left: 80%;
+gap: 0px;
+opacity: 0px;
+}
+
+.ornageBgDog{
+    width: 270px;
+height: 390px;
+top: 23%;
+left: 63%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.yellowBgDog{
+    position: absolute;
+width: 180px;
+height: 200px;
+top: 66.6%;
+left: 55%;
+gap: 0px;
+opacity: 0px;
+}
+
+.greenBgDog{
+     position: absolute;
+width: 220px;
+height: 180px;
+bottom:16.2%;
+left: 75%;
+gap: 0px;
+opacity: 0px;
+}

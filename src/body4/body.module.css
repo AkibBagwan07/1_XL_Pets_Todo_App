@@ -1,0 +1,161 @@
+.vector{
+    width: 1276px;
+height: 465px;
+top: 102px;
+left: -36px;
+gap: 0px;
+opacity: 0px;
+}
+
+.paw{
+    width: 60px;
+height: 60px;
+top: 23%;
+left: 45%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.bone{
+    position: absolute;
+    top: 27%;
+    left: 12%;
+    width: 73.45px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+}
+
+.ball{
+    width: 60px;
+    top: 68%;
+    left: 27%;
+    position: absolute;
+}
+
+.voiletPrint2{
+    position: absolute;
+    width: 92.61px;
+height: 90.28px;
+bottom:  5%;
+left: 45%;
+gap: 0px;
+opacity: 0px;
+}
+
+.bone2{
+    position: absolute;
+    bottom: 0.2%;
+    left: 5%;
+    width: 120px;
+height: 75px;
+gap: 0px;
+opacity: 0px;
+}
+
+.faintPinkFoot{
+    position: absolute;
+    right: 27%;
+    bottom: 0.1%;
+}
+
+.voiletPrint{
+    position: absolute;
+    width: 62.61px;
+height: 60.28px;
+top: 19%;
+left: 30%;
+gap: 0px;
+opacity: 0px;
+}
+
+.foodFull{
+    position: absolute;
+    left: 5%;
+    bottom: 0%;
+}
+
+.ring{
+    width: 69.17px;
+height: 37.72px;
+top: 38%;
+left: 43%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.quoteParent{
+width: 677px;
+height: 106px;
+top: 31%;
+left: 12%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.quote{
+font-family: Playfair Display;
+font-size: 40px;
+font-weight: 700;
+line-height: 53.32px;
+letter-spacing: 0.05em;
+text-align: center;
+
+}
+
+.cat{
+    transform: rotate(-4deg);
+width: 220px;
+height: 200px;
+top: 25%;
+left: 62.6%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.blueBgDog{
+    transform: rotate(5deg);
+width: 234px;
+height: 250px;
+top: 24.6%;
+left: 66%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.ornageBgDog{
+    width: 270px;
+height: 390px;
+top: 23%;
+left: 63%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.yellowBgDog{
+    transform: rotate(6deg);
+    width: 200px;
+height: 340px;
+top: 26%;
+left: 63%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.greenBgDog{
+    transform: rotate(-3deg);
+     width: 200px;
+height: 370px;
+top: 25%;
+left: 68%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}

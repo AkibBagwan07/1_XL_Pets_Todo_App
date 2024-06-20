@@ -1,0 +1,169 @@
+.vector{
+    width: 1276px;
+height: 465px;
+top: 102px;
+left: -36px;
+gap: 0px;
+opacity: 0px;
+}
+
+.ring{
+    width: 70px;
+    top: 72%;
+    left: 28%;
+    position: absolute;
+}
+.footprint1{
+    width: 90px;
+    bottom: 5%;
+    left: 15%;
+    position: absolute;
+}
+
+/* .bone{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 73.45px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+} */
+
+.paw2{
+    width: 73.94px;
+height: 73.42px;
+top: 15%;
+left: 14%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.ball{
+    width: 50px;
+    top: 20%;
+    left: 47%;
+    position: absolute;
+}
+/* .bone2{
+    position: absolute;
+    bottom: 0.2%;
+    left: 5%;
+    width: 120px;
+height: 75px;
+gap: 0px;
+opacity: 0px;
+} */
+
+.shortFootPrint{
+    width: 50px;
+    top: 28%;
+    left: 28%;
+    position: absolute;
+}
+
+.paw{
+    width: 73.94px;
+height: 73.42px;
+bottom: 2%;
+left: 38%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.voiletPrint{
+    position: absolute;
+    width: 62.61px;
+height: 60.28px;
+top: 19%;
+left: 20%;
+gap: 0px;
+opacity: 0px;
+}
+
+/* .ring{
+    width: 69.17px;
+height: 37.72px;
+top: 18%;
+left: 39%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+} */
+
+.quoteParent{
+width: 677px;
+height: 106px;
+top: 31%;
+left: 12%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.quote{
+font-family: Playfair Display;
+font-size: 40px;
+font-weight: 700;
+line-height: 53.32px;
+letter-spacing: 0.05em;
+text-align: center;
+}
+
+.cat{
+     transform: rotate(-5.5deg);
+position: absolute;
+width: 200px;
+height: 230px;
+top: 23%;
+left: 60%;
+gap: 0px;
+opacity: 0px;
+}
+
+.blueBgDog{
+    transform: rotate(16deg);
+margin-top: -40px;
+position: absolute;
+width: 200px;
+height: 320px;
+bottom: -2%;
+left: 80%;
+gap: 0px;
+opacity: 0px;
+}
+
+.ornageBgDog{
+    transform: rotate(-16deg);
+    width: 270px;
+height: 410px;
+bottom: 0%;
+left: 45%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.yellowBgDog{
+     transform: rotate(-5.5deg);
+    position: absolute;
+width: 180px;
+height: 230px;
+top: 36%;
+left: 69.6%;
+gap: 0px;
+opacity: 0px;
+}
+
+.greenBgDog{
+     transform: rotate(8deg);
+     position: absolute;
+width: 220px;
+height: 255px;
+bottom:16.2%;
+left: 75%;
+gap: 0px;
+opacity: 0px;
+}

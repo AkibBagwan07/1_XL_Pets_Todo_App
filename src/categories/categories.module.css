@@ -1,0 +1,37 @@
+.fourServices{
+    display: flex;
+    width: 674px;
+height: 40.3px;
+gap: 12px;
+opacity: 0px;
+position: absolute;
+bottom: 25%;
+justify-content: space-between;
+left: 10%;
+}
+
+.services{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 23.44px;
+text-align: left;
+}
+
+.selectedService{
+     background-color: #124C5F;
+     font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 23.44px;
+text-align: left;
+display: flex;
+    align-items: center;
+    padding: 5px;
+    color: white;
+    border-radius:8px ;
+}
+.footprintAndService{
+    display: flex;
+    align-items: center;
+}

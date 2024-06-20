@@ -1,0 +1,191 @@
+.vector{
+    width: 1276px;
+height: 465px;
+top: 102px;
+left: -36px;
+gap: 0px;
+opacity: 0px;
+}
+
+.footprint1{
+    bottom: 9%;
+    left: 27%;
+    position: absolute;
+    height: 80px;
+    width: 90px;
+}
+
+.bone{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 73.45px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+}
+
+.paw{
+    width: 73.94px;
+height: 73.42px;
+bottom: 4%;
+right: 15%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.bone2{
+    position: absolute;
+    bottom: 0.2%;
+    left: 5%;
+    width: 73.45px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+}
+
+.paw2{
+    width: 73.94px;
+height: 73.42px;
+bottom: 2%;
+left: 46%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.voiletPrint{
+    position: absolute;
+    width: 62.61px;
+height: 60.28px;
+bottom: 7%;
+left: 6%;
+gap: 0px;
+opacity: 0px;
+}
+
+.ring{
+    width: 69.17px;
+height: 37.72px;
+top: 73%;
+left: 40%;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.categoryParent{
+position: absolute;
+width: 215px;
+height: 53px;
+top: 12%;
+left: 10%;
+gap: 0px;
+opacity: 0px;
+}
+
+.category{
+font-family: Playfair Display;
+font-size: 40px;
+font-weight: 700;
+line-height: 53.32px;
+letter-spacing: 0.05em;
+text-align: center;
+}
+
+.paragraphParent{
+    width: 667px;
+height: 192px;
+gap: 0px;
+opacity: 0px;
+top: 25%;
+left:10%;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+}
+
+.serviceType{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 800;
+line-height: 28.13px;
+letter-spacing: 0.05em;
+text-align: left;
+}
+
+.para{
+    position: absolute;
+    top: 22%;
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.13px;
+letter-spacing: 0.05em;
+text-align: left;
+}
+
+.getStartedBtn{
+    width: 146px;
+height: 49px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background-color: rgba(199, 231, 225, 1);
+border: none;
+color: black;
+cursor: pointer;
+position: absolute;
+    bottom: -38%;
+}
+
+.clinic{
+    position: absolute;
+    right: 6%;
+    top: 19%;
+    background-color: orange;
+    width: 377px;
+height: 396px;
+gap: 0px;
+border-radius: 100%;
+opacity: 0px;
+}
+
+.fourServices{
+    display: flex;
+    width: 674px;
+height: 40.3px;
+gap: 12px;
+opacity: 0px;
+position: absolute;
+bottom: 25%;
+justify-content: space-between;
+left: 10%;
+}
+
+.services{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 23.44px;
+text-align: left;
+}
+
+.footprintAndService{
+    display: flex;
+    align-items: center;
+}
+
+.foodFull{
+    position: absolute;
+    right: 45%;
+    bottom: 3%;
+    height: 70px;
+    width: 100px;
+}
+
+.pinkFootPrint{
+    position: absolute;
+    right: 7%;
+    bottom: 0%;
+}
