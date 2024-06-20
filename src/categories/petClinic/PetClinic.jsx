@@ -1,4 +1,5 @@
 import React from 'react'
+import { motion } from 'framer-motion'
 import vector from "../../assests/Vector.png"
 import styles from "./PetClinic.module.css"
 import footprint1 from "../../assests/footprint1.png"
@@ -9,7 +10,10 @@ import clinic from "../../assests/clinic.png"
 
 const PetClinic = () => {
   return (
-      <div>
+      <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{opacity:0}}>
           <div className={ styles.categoryParent}> <h1 className={ styles.category}>Categories</h1></div>
       <div>
           <img src={vector} alt="vector" className={ styles.vector} />
@@ -24,7 +28,7 @@ const PetClinic = () => {
             <div><img className={styles.footprint1} src={footprint1} alt="footprint1" /></div>
             <div><img className={ styles.voiletPrint} src={ voiletPrint} alt="voiletPrint" /></div>
             <div><img className={styles.clinic} src={clinic} alt="clinic" /></div>
-        </div>
+        </motion.div>
   )
 }
 

@@ -1,4 +1,5 @@
 import React from 'react'
+import { motion } from 'framer-motion'
 import vector from "../assests/Vector.png"
 import styles from "./body.module.css"
 import footprint1 from "../assests/footprint1.png"
@@ -14,7 +15,10 @@ import shortFootPrint from "../assests/shortFootPrint.png"
 
 const Body5 = () => {
     return (
-      <div>
+      <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{opacity:0}}>
       <div>
           <img src={vector} alt="vector" className={ styles.vector} />
             </div>
@@ -30,7 +34,7 @@ const Body5 = () => {
         <div><img className={styles.yellowBgDog} src={yellowBgDog} alt="yellowBgDog" /></div>
         <div><img className={styles.cat} src={cat} alt="cat" /></div>
                 <div><img className={styles.ornageBgDog} src={ornageBgDog} alt="ornageBgDog" /></div>
-        </div>
+        </motion.div>
   )
 }
 

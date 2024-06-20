@@ -1,4 +1,5 @@
 import React from 'react'
+import { motion } from 'framer-motion'
 import vector from "../../assests/Vector.png"
 import styles from "./PetTraining.module.css"
 import footprint1 from "../../assests/footprint1.png"
@@ -9,7 +10,7 @@ import petTraining from "../../assests/petTraining.png"
 
 const PetTraining = () => {
   return (
-      <div
+      <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{opacity:0}} className={styles.parentDiv}>
@@ -27,7 +28,7 @@ const PetTraining = () => {
             <div><img className={styles.footprint1} src={footprint1} alt="footprint1" /></div>
             <div><img className={ styles.voiletPrint} src={ voiletPrint} alt="voiletPrint" /></div>
             <div><img className={styles.petTraining} src={petTraining} alt="petTraining" /></div>
-        </div>
+        </motion.div>
   ) 
 }
 
