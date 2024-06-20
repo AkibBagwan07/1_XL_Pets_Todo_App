@@ -32,7 +32,7 @@ const Body1 = () => {
         <div><img className={styles.yellowBgDog} src={yellowBgDog} alt="yellowBgDog" /></div>
          <div><img className={styles.greenBgDog} src={greenBgDog} alt="greenBgDog" /></div>
          <div><img className={styles.blueBgDog} src={blueBgDog} alt="blueBgDog" /></div>
-                <div><img className={styles.ornageBgDog} src="ornageBgDog.png" alt="ornageBgDog" /></div>
+                <div><img className={styles.ornageBgDog} src={ornageBgDog} alt="ornageBgDog" /></div>
         </div>
   )
 }
