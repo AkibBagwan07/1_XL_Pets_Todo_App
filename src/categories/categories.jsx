@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styles from "./categories.module.css"
-import serviceFootprint from "../images/servicesFootprint.png"
+import serviceFootprint from "../assests/servicesFootprint.png"
 import PetGrooming from './petGrooming/PetGrooming'
 import PetClinic from './petClinic/PetClinic'
 import PetDayCare from './petDayCare/PetDayCare'

@@ -1,16 +1,16 @@
 import React from 'react'
-import vector from "../images/Vector.png"
+import vector from "../assests/Vector.png"
 import styles from "./body.module.css"
-import footprint1 from "../images/footprint1.png"
-import paw from "../images/paw.png"
-import ring from "../images/ring.png"
-import cat from "../images/cat.png"
-import ornageBgDog from "../images/ornageBgDog.png"
-import blueBgDog from "../images/blueBgDog.png"
-import yellowBgDog from "../images/yellowBgDog.png"
-import greenBgDog from "../images/greenBgDog.png"
-import ball from "../images/ball.png"
-import shortFootPrint from "../images/shortFootPrint.png"
+import footprint1 from "../assests/footprint1.png"
+import paw from "../assests/paw.png"
+import ring from "../assests/ring.png"
+import cat from "../assests/cat.png"
+import ornageBgDog from "../assests/ornageBgDog.png"
+import blueBgDog from "../assests/blueBgDog.png"
+import yellowBgDog from "../assests/yellowBgDog.png"
+import greenBgDog from "../assests/greenBgDog.png"
+import ball from "../assests/ball.png"
+import shortFootPrint from "../assests/shortFootPrint.png"
 
 const Body5 = () => {
     return (

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from "../images/Logo.png.png"
+import Logo from "../assests/Logo.png.png"
 import styles from "./navbar.module.css"
 import Buttons from '../buttons/buttons'
 import Body from '../bodyParent/body'

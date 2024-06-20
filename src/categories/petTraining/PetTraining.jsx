@@ -1,11 +1,11 @@
 import React from 'react'
-import vector from "../../images/Vector.png"
+import vector from "../../assests/Vector.png"
 import styles from "./PetTraining.module.css"
-import footprint1 from "../../images/footprint1.png"
-import foodFull from "../../images/foodFull.png"
-import pinkFootPrint from "../../images/pinkFootPrint.png"
-import voiletPrint from "../../images/voilet.png"
-import petTraining from "../../images/petTraining.png"
+import footprint1 from "../../assests/footprint1.png"
+import foodFull from "../../assests/foodFull.png"
+import pinkFootPrint from "../../assests/pinkFootPrint.png"
+import voiletPrint from "../../assests/voilet.png"
+import petTraining from "../../assests/petTraining.png"
 
 const PetTraining = () => {
   return (

@@ -1,11 +1,11 @@
 import React from 'react'
-import vector from "../../images/Vector.png"
+import vector from "../../assests/Vector.png"
 import styles from "./PetClinic.module.css"
-import footprint1 from "../../images/footprint1.png"
-import foodFull from "../../images/foodFull.png"
-import pinkFootPrint from "../../images/pinkFootPrint.png"
-import voiletPrint from "../../images/voilet.png"
-import clinic from "../../images/clinic.png"
+import footprint1 from "../../assests/footprint1.png"
+import foodFull from "../../assests/foodFull.png"
+import pinkFootPrint from "../../assests/pinkFootPrint.png"
+import voiletPrint from "../../assests/voilet.png"
+import clinic from "../../assests/clinic.png"
 
 const PetClinic = () => {
   return (
