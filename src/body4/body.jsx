@@ -9,7 +9,7 @@ import ornageBgDog from "../assests/ornageBgDog.png"
 import blueBgDog from "../assests/blueBgDog.png"
 import yellowBgDog from "../assests/yellowBgDog.png"
 import greenBgDog from "../assests/greenBgDog.png"
-import ball from "../assests/ball.png"
+import ball from "../assests/ball.JPG"
 import faintPinkFoot from "../assests/faintPinkFoot.png"
 import foodFull from "../assests/foodFull.png"
 
